@@ -71,19 +71,17 @@
     padding-top: 5%;
 }
 
+
 .card-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    text-align: center;
 }
 .container img{
     margin-top: -20px;
     width: 400px;
     height: 350px;
 }
-
-
-
-
 
 /* responsive */
 @media only screen and (max-width: 600px) {
